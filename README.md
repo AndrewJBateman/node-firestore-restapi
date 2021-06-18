@@ -1,8 +1,12 @@
 # :zap: Node Firestore Rest API
 
 * Uses Node.js to connect with Google Cloud data storage and CRUD data. This is code from Google and is stored here to learn how Google write a CRUD app.
+* **Note:** to open web links in a new window use: _ctrl+click on link_
 
-**\* Note: to open web links in a new window use: _ctrl+click on link_**
+![GitHub repo size](https://img.shields.io/github/repo-size/AndrewJBateman/node-firestore-restapi?style=plastic)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/AndrewJBateman/node-firestore-restapi?style=plastic)
+![GitHub Repo stars](https://img.shields.io/github/stars/AndrewJBateman/node-firestore-restapi?style=plastic)
+![GitHub last commit](https://img.shields.io/github/last-commit/AndrewJBateman/node-firestore-restapi?style=plastic)
 
 ## :page_facing_up: Table of contents
 
@@ -57,7 +61,7 @@ router.get('/', async (req, res) => {
 ## :cool: Features
 
 * This was all run in Google Cloud using an SSH terminal, following Google tutorial instructions and it worked first time
-* Pug makes it easier both to write reusable HTML and to render data from the books API.
+* Pug makes it easier both to write reusable HTML and to render data from the books API
 
 ## :clipboard: Status & To-Do List
 
@@ -69,6 +73,10 @@ router.get('/', async (req, res) => {
 * [Google CLoud Getting started with Node.js](https://cloud.google.com/nodejs/getting-started)
 * [A Beginner’s Guide to Pug](https://www.sitepoint.com/a-beginners-guide-to-pug/#:~:text=Pug%20is%20a%20template%20engine,from%20a%20database%20or%20API.)
 
+## :file_folder: License
+
+* N/A.
+
 ## :envelope: Contact
 
-* Repo created by [ABateman](https://www.andrewbateman.org) - you are welcome to [send me a message](https://andrewbateman.org/contact)
+* Repo created by [ABateman](https://github.com/AndrewJBateman), email: gomezbateman@yahoo.com
